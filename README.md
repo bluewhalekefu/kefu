@@ -1,5 +1,6 @@
 # 藍鯨魚客服系統
-https://www.bluewhale999.com  藍鯨魚客服是一款全新安全穩定適合任何行業的客服系統，藍鯨客服革命性地提升客服聊天效率，減少運營成本。
+https://www.bluewhale999.com  
+藍鯨魚客服是一款全新安全穩定適合任何行業的客服系統，藍鯨魚客服革命性地提升客服聊天效率，減少運營成本。
 
 ## 功能介紹
 
@@ -22,9 +23,7 @@ https://www.bluewhale999.com  藍鯨魚客服是一款全新安全穩定適合�
 - 高可用架構設計
 - SLA協議確保可用性達 99.9%
 
-![Image](https://user-images.githubusercontent.com/116637035/199217014-7cdfe0b8-6a72-4227-9465-6c8f3e256934.png)
-
-
+<img src="https://user-images.githubusercontent.com/116637035/199217014-7cdfe0b8-6a72-4227-9465-6c8f3e256934.png" width="400px">
 
 ## 產品演示
 ### 坐席工作台
@@ -41,17 +40,20 @@ https://www.bluewhale999.com/web?site=C4UwzsQ=
 ### 前置條件
 
 #### 服務器最小化要求：
-CPU：2核  內存：4G  硬盤：40G
+CPU：2核  
+內存：4G  
+硬盤：40G
 
 #### 操作系統：
-CentOS  Ubuntu
+CentOS  
+Ubuntu
 
 ### 安裝部署
-#### 一.下載安裝包
+#### 一、下載安裝包
 ```
 ~# curl -OL https://github.com/bluewhalekefu/kefu/releases/download/1.0/kefu_1.0.tar.gz
 ```
-#### 二.安裝
+#### 二、安裝
 1.解壓
 ```
 ~# tar -zxvf kefu_1.0.tar.gz
@@ -64,7 +66,7 @@ CentOS  Ubuntu
 ```
 ~# sh inst_all.sh
 ```
-#### 三.訪問
+#### 三、訪問
 ```
 http://[ip/domainName]/admin
 用戶名：admin 密碼：123456
