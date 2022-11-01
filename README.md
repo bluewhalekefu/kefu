@@ -53,7 +53,7 @@ Ubuntu
 ### 安裝部署
 #### 一.下載安裝包
 ```
-~# curl -OL https://cdn.bluewhale999.com/kefu/kefu_1.0.tar.gz
+~# curl -OL https://github.com/bluewhalekefu/kefu/releases/download/1.0/kefu_1.0.tar.gz
 ```
 #### 二.安裝
 1.解壓
