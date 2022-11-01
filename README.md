@@ -43,7 +43,7 @@ CPU: 2核
 CentOS  
 Ubuntu  
 ### 安裝部署
-#### 一、下載安裝包
+#### 一、下載安裝程式
 ```
 ~# curl -OL https://github.com/bluewhalekefu/kefu/releases/download/1.0/kefu_1.0.tar.gz
 ```
@@ -52,7 +52,7 @@ Ubuntu
 ```
 ~# tar -zxvf kefu_ 1.0.tar.gz
 ```
-2.進入安裝包目錄
+2.進入安裝程式目錄
 ```
 ~# cd kefu_ 1.0
 ```
